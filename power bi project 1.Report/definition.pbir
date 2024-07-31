@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../power bi project 1.SemanticModel"
+    },
+    "byConnection": null
+  }
+}
